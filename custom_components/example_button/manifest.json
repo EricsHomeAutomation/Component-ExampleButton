@@ -1,0 +1,10 @@
+{
+	"domain": "example_button",
+	"name": "Example Button",
+	"documentation": "",
+	"dependencies": [],
+	"codeowners": ["@egold555"],
+	"requirements": [],
+	"iot_class": "local_polling",
+	"version": "1.0.0"
+}

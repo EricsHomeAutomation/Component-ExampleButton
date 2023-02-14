@@ -1,0 +1,4 @@
+button:
+  - platform: example_button
+    name: "Example Button"
+    ip_address: "127.0.0.1"
